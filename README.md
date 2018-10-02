@@ -1,6 +1,9 @@
 # 🔒 rofi-gopass
 Simple gopass manager for rofi
 
+## Screenshot
+![demo-screenshot](./screenshot.png "rofi-gopass")
+
 ## Dependencies
 - [rofi](https://github.com/DaveDavenport/rofi)
 - [gopass](https://github.com/gopasspw/gopass)
