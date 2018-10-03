@@ -1,5 +1,5 @@
 # 🔒 rofi-gopass
-Simple gopass manager for rofi. It shows a list of passwords in gopass and then types the selected entry in the focused input field.
+This is a simple gopass manager for rofi. It shows the list of passwords from gopass and types the selected entry in the focused input field. 
 
 ## Screenshot
 ![demo-screenshot](./screenshot.png "rofi-gopass")
